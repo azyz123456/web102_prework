@@ -4,7 +4,7 @@ Submitted by: Angelina Zheng
 
 Sea Monster Crowdfunding Games is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 2 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/YThXexL' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/YThXexL.gif' width='' alt='Video Walkthrough' />
 GIF created with LiceCap
 
 ## Notes
